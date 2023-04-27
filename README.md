@@ -1,5 +1,5 @@
-# car-mielage-prediction-model
-car mielage prediction model using linear regression.
+# car-mileage-prediction-model
+car mileage prediction model using linear regression.
 There are 8 steps to create a machine learning model.
 1.import library
 2.import data
